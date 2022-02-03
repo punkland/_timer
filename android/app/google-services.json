@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253024666875",
+    "project_id": "asistentecasa-37800",
+    "storage_bucket": "asistentecasa-37800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253024666875:android:5377941583d3241a1d9c5e",
+        "android_client_info": {
+          "package_name": "net.adea.mx04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253024666875-7en28cccpkh2vg1rl57b97h5as8hft0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqpru45Ldj4SWq5Zqd9BqzoDitbW-NMiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253024666875-7en28cccpkh2vg1rl57b97h5as8hft0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
